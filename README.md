@@ -1,5 +1,7 @@
 # DESIGN JOURNAL CART 310
 
+# NOTE FOR TESTERS: If you're playing on PC, you can alternatively download a build of the game from this link: https://marafrass.itch.io/chocolate-quake using the password "quake". The file size is about a tenth of the project and will run directly instead of through the Unity editor.
+
 ## Prototype 1 - Chocolate Quake
 
 I usually set out to make comedic/narrative games, so for this project, I wanted to go in a complete opposite direction.
