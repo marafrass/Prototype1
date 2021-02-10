@@ -1,6 +1,6 @@
 # DESIGN JOURNAL CART 310
 
-## Prototype 1 - Blexen
+## Prototype 1 - Chocolate Quake
 
 I usually set out to make comedic/narrative games, so for this project, I wanted to go in a complete opposite direction.
 
@@ -22,9 +22,15 @@ On that note, I had to figure out what exactly the core experience of the shoote
 
 
 
-### Tackling movement
+### Questions for Playtesters:
 
-Movement was the first important step in making the game feel right.
+1. Do you play a lot of first person shooters?
+2. Was the game too fast/too slow for you?
+3. Did you feel powerful?
+4. Did you feel challenged?
+5. Did you move in your chair as you played?
+6. Was there something you wanted to do in game, but couldn't?
+7. 
 
 
 
