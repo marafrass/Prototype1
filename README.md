@@ -24,15 +24,15 @@ On that note, I had to figure out what exactly the core experience of the shoote
 
 ### Questions for Playtesters:
 
-1. Do you play a lot of first person shooters?
-2. Was the game too fast/too slow for you?
-3. Did you feel powerful?
-4. Did you feel challenged?
-5. Did you move in your chair as you played?
+1. Do you play a lot of first person shooters? Do you consider yourself a skilled player?
+2. How did you feel about the speed of the game? The enemies and the player character?
+3. Were the guns satisfying to fire? Did they feel impactful?
+4. Did you feel challenged? How did you feel about the game difficulty?
+5. Did you move in your chair as you played? Did the game at any point get your adrenaline pumping?
 6. Was there something you wanted to do in game, but couldn't?
-7. Weapons or abilities?
+7. Were there weapons or abilities you expected/wanted from the game?
 8. Did the game hold your attention?
-9. Anything you wanna add?
+9. Anything else you want to add?
 
 
 
