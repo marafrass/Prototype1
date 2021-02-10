@@ -38,8 +38,12 @@ On that note, I had to figure out what exactly the core experience of the shoote
 
 All sound effects used are public domain or licensed under Creative Commons.
 
-Base game template by Unity Technologies.
+Base game template (FPS Microgame) by Unity Technologies.
 
-"The Only Thing They Fear is You" by Mick Gordon.
+Soundtrack "The Only Thing They Fear is You" by Mick Gordon for DOOM Eternal.
+
+Pixelation camera effect and skeleton model sourced from the Unity asset store:
+https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/pixelation-camera-65900
+https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/toon-rts-units-undead-demo-95640
 
 Cacodemon low poly model sourced from this site: https://sketchfab.com/3d-models/cacodemon-low-poly-7228d01592ad4e369f9e21069a6e8cb9#download
