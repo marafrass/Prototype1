@@ -36,8 +36,10 @@ On that note, I had to figure out what exactly the core experience of the shoote
 
 
 
+All sound effects used are public domain or licensed under Creative Commons.
 
+Base game template by Unity Technologies.
 
-https://sketchfab.com/3d-models/cacodemon-low-poly-7228d01592ad4e369f9e21069a6e8cb9#download
+"The Only Thing They Fear is You" by Mick Gordon.
 
-https://freesound.org/people/qubodup/sounds/442827/
+Cacodemon low poly model sourced from this site: https://sketchfab.com/3d-models/cacodemon-low-poly-7228d01592ad4e369f9e21069a6e8cb9#download
