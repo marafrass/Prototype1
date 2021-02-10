@@ -38,6 +38,8 @@ On that note, I had to figure out what exactly the core experience of the shoote
 
 All sound effects used are public domain or licensed under Creative Commons.
 
+Lowpoly textures, except ones made by me, are either public domain or sourced from the 1994 game Heretic, developed by Raven Software and published by id Software.
+
 Base game template (FPS Microgame) by Unity Technologies.
 
 Soundtrack "The Only Thing They Fear is You" by Mick Gordon for DOOM Eternal.
