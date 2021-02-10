@@ -30,8 +30,9 @@ On that note, I had to figure out what exactly the core experience of the shoote
 4. Did you feel challenged?
 5. Did you move in your chair as you played?
 6. Was there something you wanted to do in game, but couldn't?
-7. Did the game hold your attention?
-8. 
+7. Weapons or abilities?
+8. Did the game hold your attention?
+9. Anything you wanna add?
 
 
 
