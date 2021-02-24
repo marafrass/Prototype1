@@ -36,18 +36,6 @@ On that note, I had to figure out what exactly the core experience of the shoote
 8. Did the game hold your attention?
 9. Anything else you want to add?
 
-# PLAYTEST RESPONSES
-
-First thing I noticed from playtests was that players were exploiting the range on the standard weapon—the shotgun—rather than engaging in a more direct and aggressive playstyle. The projectiles could be spammed from a distance, and since they had a 5sec lifespan and no dropoff in damage, they were easy to exploit. Similarly, players were able to lure in single enemies into their range, using the weapons, instead of being charged by an entire group.
-
-​	This was eye-opening, and a wonderful realization, as it marked how important it was to differentiate weapons. The shotgun had to become more short-ranged, and the possibility of a railgun or a rifle would help bridge the gap between the aforementioned weapon and the rocket launcher. All in all, weapon variety should take a backseat to situational weaponry - few weapons with distinct uses is better than twenty that overlap. Other than that, everyone mentioned loving how the guns felt to use - impactful and powerful, which was encouraging to hear.
-
-​	The speed of the game was received well - some weren't sure about the amount of enemies, while others claimed that was the chief source of difficulty. A few did end up getting ganged up on by a number of enemies, and one asked for better visual feedback for when they were getting hit. I think in upcoming level design, encounters will be grouped up differently and in more manageable chunks - possibly balanced by fewer health drops.
-
-​	Not everyone found a way out of the first room - the platforming might have been unclear. Considering making this clearer by adding a light source above the two statues you need to jump on. On that note, the jumping needs more aerial control, as a few thought it felt sluggish or difficult to platform with.
-
-​	For the next playtests, Im hoping to have more experienced players test it out - a lot of really interesting feedback came out of these tests, and I think they really help solidify the foundational designs. Definitely want to add a dash to the game, as well as some new and more interesting enemies. And levels, too, but we'll see...
-
 
 # PLAYTEST RESPONSES
 
