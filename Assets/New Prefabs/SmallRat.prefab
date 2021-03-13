@@ -332,7 +332,8 @@ MonoBehaviour:
   eyeColorMaterial: {fileID: 2100000, guid: a7baa8fdcb831b44d87d70b1e6941b39, type: 2}
   defaultEyeColor: {r: 23.968628, g: 6.6509805, b: 0, a: 1}
   attackEyeColor: {r: 23.968628, g: 1.0076232, b: 0, a: 1}
-  bodyMaterial: {fileID: 2100000, guid: 1dc38d9a9bb57a24b9ab5019c651f99d, type: 2}
+  bodyMaterial: {fileID: -6478536213147159724, guid: bffe576e46a7a5c4d8e636f7785d2fe0,
+    type: 3}
   onHitBodyGradient:
     serializedVersion: 2
     key0: {r: 0, g: 0, b: 0, a: 1}
@@ -413,7 +414,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e27364eefd6dd0341ba72a3bfc0d9727, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 40.97
+  maxHealth: 100
   criticalHealthRatio: 0.1
 --- !u!114 &452978463638156104
 MonoBehaviour:
@@ -2256,7 +2257,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   detectionSourcePoint: {fileID: 7884135073187044973}
-  detectionRange: 25.56
+  detectionRange: 99
   attackRange: 2.8
   knownTargetTimeout: 12
   animator: {fileID: 0}
@@ -2287,8 +2288,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8018587269854306453}
   m_LocalRotation: {x: 0.70706755, y: -0, z: -0, w: 0.7071461}
-  m_LocalPosition: {x: 0.073, y: 0.91, z: 1.25}
-  m_LocalScale: {x: 1.3947457, y: 2.5802796, z: 1.7209766}
+  m_LocalPosition: {x: 0.073, y: 0.9112, z: 1.3799}
+  m_LocalScale: {x: 1.5621152, y: 2.889913, z: 1.9274938}
   m_Children: []
   m_Father: {fileID: 3288391651240116693}
   m_RootOrder: 4

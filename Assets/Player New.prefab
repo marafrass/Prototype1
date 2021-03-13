@@ -147,7 +147,7 @@ MonoBehaviour:
   movementSharpnessOnGround: 15
   maxSpeedCrouchedRatio: 0.5
   maxSpeedInAir: 100
-  accelerationSpeedInAir: 1
+  accelerationSpeedInAir: 1.55
   sprintSpeedModifier: 1.5
   killHeight: -50
   rotationSpeed: 195.84
@@ -284,7 +284,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damageMultiplier: 1
-  sensibilityToSelfdamage: 0.25
+  sensibilityToSelfdamage: 0.15
 --- !u!82 &4015848216203808524
 AudioSource:
   m_ObjectHideFlags: 0
