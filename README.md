@@ -1,11 +1,33 @@
-# DESIGN JOURNAL CART 310
+# ITERATIVE PROTOTYPE - CHOCOLATE QUAKE
 
-# NOTE FOR TESTERS: If you're playing on PC, you can alternatively download a build of the game from this link: https://marafrass.itch.io/chocolate-quake using the password "quake". The file size is about a tenth of the project and will run directly instead of through the Unity editor.
+For my final project, I decided to go with the shooter I did early on. 
+
+A series of changes have been made to the game since I uploaded it first, among which are:
+
+- The player now respawns in checkpoints, depending on their progress.
+- A number of new weapons and weapon placements have been added, such as a flamethrower, hatchets, and a railgun.
+- Enemies no longer exist in the level, and instead spawn in as you play and reach certain points in the level.
+- Some progress is now halted by level interaction, i.e. pushing buttons to move obstacles, etc.
+- Large parts of the level have been redesigned, and some have had completely new areas added to them.
+- The game now has a start menu, with a series of legally distinct names, all of which are incredibly silly.
+- There is now an end state of the game.
+- Aerial control for the player has been massively improved.
+- Changed music and added tons of sound effects.
+- Added new secrets to the game
+- Added new enemies to the game, such as long range demon and short-range projectile footsoldiers.
+- Enemies and weapons have been balanced; the range of the shotgun is a lot shorter, and it is no longer possible to kill enemies with it from far away.
+- Cake gun is in code, but no longer in the level.
+- Added a short version of another level, but left that for later development.
+- Enemy health drop rate has been reduced from .5 to .2.
+
+
+In general, the game plays a lot smoother and faster than before. The game is challenging and demands quick movement, which I'm very happy with.
+
+## * * * 
 
 ## Prototype 1 - Chocolate Quake
 
 I usually set out to make comedic/narrative games, so for this project, I wanted to go in a complete opposite direction.
-
 
 
 ## What are the barebones mechanics needed to make a simple first person shooter engaging in both play and feedback?
@@ -59,10 +81,10 @@ Lowpoly textures, except ones made by me, are either public domain or sourced fr
 
 Base game template (FPS Microgame) by Unity Technologies.
 
-Soundtrack "The Only Thing They Fear is You" by Mick Gordon for DOOM Eternal.
+Soundtrack "The Only Thing They Fear is You" and "BFG Division" by Mick Gordon for DOOM 2016 and DOOM Eternal.
 
 Pixelation camera effect and skeleton model sourced from the Unity asset store:
 https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/pixelation-camera-65900
 https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/toon-rts-units-undead-demo-95640
 
-Cacodemon low poly model sourced from this site: https://sketchfab.com/3d-models/cacodemon-low-poly-7228d01592ad4e369f9e21069a6e8cb9#download
+Short-range projectile footsoldier sprite sourced from DOOM II.
