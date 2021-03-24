@@ -265,7 +265,7 @@ MonoBehaviour:
   winSceneName: WinScene
   delayBeforeFadeToBlack: 4
   delayBeforeWinMessage: 1
-  victorySound: {fileID: 8300000, guid: a533219934975884e81c1add37af9930, type: 3}
+  victorySound: {fileID: 8300000, guid: 905ec79a066b09a4598789567f8b8204, type: 3}
   WinGameMessagePrefab: {fileID: 3003312392959327722, guid: f981094eb6c2a6f4f8a56f85c606e3d1,
     type: 3}
   loseSceneName: Level1

@@ -20,6 +20,20 @@ public class GameFlowManager : MonoBehaviour
     public AudioClip victorySound;
     [Tooltip("Prefab for the win game message")]
     public GameObject WinGameMessagePrefab;
+    public GameObject[] spawnArray = new GameObject[10];
+    public GameObject startSpawn;
+    public GameObject spawn2;
+    public GameObject spawn3;
+    public GameObject spawn4;
+    public GameObject spawn5;
+    public GameObject spawn6;
+    public GameObject spawn7;
+    public GameObject spawn8;
+    public GameObject spawn9;
+
+
+
+
 
     [Header("Lose")]
     [Tooltip("This string has to be the name of the scene you want to load when losing")]
@@ -43,6 +57,20 @@ public class GameFlowManager : MonoBehaviour
 		DebugUtility.HandleErrorIfNullFindObject<ObjectiveManager, GameFlowManager>(m_ObjectiveManager, this);
 
         AudioUtility.SetMasterVolume(1);
+
+        spawnArray[0] = startSpawn;
+        spawnArray[1] = spawn2;
+        spawnArray[2] = spawn3;
+        spawnArray[3] = spawn4;
+        spawnArray[4] = spawn5;
+        spawnArray[5] = spawn6;
+        spawnArray[6] = spawn7;
+        spawnArray[7] = spawn8;
+        spawnArray[8] = spawn9;
+
+
+        m_Player.transform.position = spawnArray[CheckPointData.checkpointNumber].transform.position;
+        Debug.Log(CheckPointData.checkpointNumber);
     }
 
     void Update()

@@ -60,7 +60,7 @@ MonoBehaviour:
   radius: 0.1
   root: {fileID: 3659995153115176982}
   tip: {fileID: 1135791333161367127}
-  maxLifeTime: 0.1
+  maxLifeTime: 0.19
   impactVFX: {fileID: 7655095426451682942, guid: 358eca6adc32a89459c54b6b62d9c825,
     type: 3}
   impactVFXLifetime: 5
@@ -133,7 +133,7 @@ Transform:
   m_GameObject: {fileID: 8402172112652879564}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 1}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 0.54211}
   m_Children:
   - {fileID: 1135791333161367127}
   m_Father: {fileID: 3659995153115176982}
