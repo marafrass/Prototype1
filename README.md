@@ -1,8 +1,8 @@
 # ITERATIVE PROTOTYPE - CHOCOLATE QUAKE
 
 # FOR A SMALLER DOWNLOAD, YOU CAN CHOOSE YOUR PLATFORM HERE AND DOWNLOAD A BUILD OF THE GAME INSTEAD OF THE WHOLE PROJECT FILES! SOME PEOPLE HAVE HAD ISSUES WITH THE PROJECT, SO THIS IS A QUICK SOLUTION FOR IT.
-# FOR PC: https://we.tl/t-mfnS0V3rY5
-# FOR MAC: (Bear in mind you might have to right-click (CMD+Click) on the app and choose to open in order for your Mac to run it) https://we.tl/t-3evi3RQgYM
+# FOR PC: https://we.tl/t-lRdGy81dbv
+# FOR MAC: (Bear in mind you might have to right-click (CMD+Click) on the app and choose to open in order for your Mac to run it) https://we.tl/t-GrRWQUTXfB
 
 
 For my final project, I decided to go with the shooter I did early on. 
