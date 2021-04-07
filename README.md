@@ -1,8 +1,8 @@
 # ITERATIVE PROTOTYPE - CHOCOLATE QUAKE
 
-# FOR A SMALLER DOWNLOAD, YOU CAN CHOOSE YOUR PLATFORM HERE AND DOWNLOAD A BUILD OF THE GAME INSTEAD OF THE WHOLE PROJECT FILES! SOME PEOPLE HAVE HAD ISSUES WITH THE PROJECT, SO THIS IS A QUICK SOLUTION FOR IT.
+
 # FOR PC: https://we.tl/t-lRdGy81dbv
-# FOR MAC: (Bear in mind you might have to right-click (CMD+Click) on the app and choose to open in order for your Mac to run it) https://we.tl/t-GrRWQUTXfB
+# FOR MAC: https://we.tl/t-GrRWQUTXfB
 
 
 For my final project, I decided to go with the shooter I did early on. 
@@ -28,7 +28,23 @@ A series of changes have been made to the game since I uploaded it first, among 
 
 In general, the game plays a lot smoother and faster than before. The game is challenging and demands quick movement, which I'm very happy with.
 
-## * * * 
+# ITERATIVE PLAYTEST RESULTS
+
+There was a clear split in playtests of the game in regards to familiarity with the genre and pre-existing skills with fast-paced FPS's, which led me to consider the feedback carefully. There were a number of issues that were brought up that helped either side of the skill threshold, which I was very appreciative of.
+
+Spawning enemies have no pre-fire timeout - they fire immediately. This was an issue brought up by all testers with pre-existing skill of this type of game, and is a fair point. If the enemies can appear anywhere and fire at the player directly, it can seem pretty unfair, even if the projectiles are slow enough to dodge. I'm going to have a look at this and attempt to find a good fix.
+
+Players were unsure if they had interacted with the initial button correctly, and did not necessarily notice the statues moving. This needs to be telegraphed clearer, obviously, so I'm going to have a look at that.
+
+Some mentioned wanting more weapons or weapon variety - there are a bunch of weapons in the level, but a lot of them are hidden and off the beaten path! Considering this is tricky - either I make them easier to find, or I add them in to the main path. At the same time, I'd like to reward curiosity and exploring the map, so some weapons should be hidden. Will consider this.
+
+The pace and motion of the game was something I assumed of the player, and some players clearly came to the game with pre-existing genre savvy - but it seemed like that assumption might have caused me to overlook some of the design and immediately explain the necessary speed of the game. I'll try to make that a little clearer, either in instruction or by incentivizing it through enemy placement.
+
+As for additions to the game, there were a few suggestions! Boss fights, spells, abilities - all stuff I'm interested in, but not sure where/how/if to implement. My main priority right now is making sure more players can get through the level - I still want to keep the difficulty and the speed of the game, but I would like it to be a little clearer and a little more fair!
+
+
+
+## * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 ## Prototype 1 - Chocolate Quake
 
