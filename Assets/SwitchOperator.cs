@@ -33,7 +33,10 @@ public class SwitchOperator : MonoBehaviour
 
     private void OnTriggerStay(Collider other)
     {
-        text.SetActive(true); //myGameObject = GameObject var
+        if (interactable == true)
+        {
+            text.SetActive(true); //myGameObject = GameObject var
+        }
         if (Input.GetKeyDown(KeyCode.E)) {
 
             if (interactable == true)
