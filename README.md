@@ -42,6 +42,18 @@ The pace and motion of the game was something I assumed of the player, and some 
 
 As for additions to the game, there were a few suggestions! Boss fights, spells, abilities - all stuff I'm interested in, but not sure where/how/if to implement. My main priority right now is making sure more players can get through the level - I still want to keep the difficulty and the speed of the game, but I would like it to be a little clearer and a little more fair!
 
+# ITERATIVE PLAYTEST FINAL EDITS
+
+I did more testing! This time with seasoned FPS player, none of which seemed to have much of an issue with the game after the final fixes. I found myself yet again at the difficult design decision of whether or not I wanted to offer a more casual experience or a challenging one. Eventually, I settled on the latter - this is my game, and I want it to be a certain way. That said, I did make a few more edits based on playtester feedback, that should make the game more manageable and fair to all players!
+
+- Button to raise statue in room one is ten times clearer now, and inspecting the statues gives players a hint. Additionally, a platform has been added to the statues to make it as clear as possible.
+- Mobs now spawn in fewer, more manageable numbers at the beginning areas.
+- Added more secrets to the game. Rocket launcher and flame thrower are both in.
+- Health drop rate is higher.
+- Enemies now have a slight delay before they fire weapons when spawning.
+- Minor balance changes.
+
+The game is far better now, runs smoothly, and I'm really happy with it. Excited to present it during class.
 
 
 ## * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
