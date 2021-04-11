@@ -1,8 +1,7 @@
 # ITERATIVE PROTOTYPE - CHOCOLATE QUAKE
 
 
-# FOR PC: https://we.tl/t-lRdGy81dbv
-# FOR MAC: https://we.tl/t-GrRWQUTXfB
+## To download builds directly, head on over to https://marafrass.itch.io/chocolate-quake and use the password "quake"! Both PC and Mac builds are provided!
 
 
 For my final project, I decided to go with the shooter I did early on. 
